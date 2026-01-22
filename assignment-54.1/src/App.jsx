@@ -3,7 +3,7 @@ import "./App.css";
 import ProductList from "./components/ProductList";
 import NavBar from "./components/NavBar";
 import Footer from "./components/Footer";
-import Search from "./components/search";
+import Search from "./components/Search";
 import Pagination from "./components/Pagination";
 
 
